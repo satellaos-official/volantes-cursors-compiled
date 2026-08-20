@@ -29,7 +29,7 @@ The original project requires building from source graphics. This repo is mainta
 
 1. Cloning Repository
 ```bash
-   git clone https://github.com/satellaos-official/volantes-cursors-compiled.git "$HOME/volantes-cursors-compiled"
+git clone https://github.com/satellaos-official/volantes-cursors-compiled.git "$HOME/volantes-cursors-compiled"
 ```
    
 2. Installation for User
