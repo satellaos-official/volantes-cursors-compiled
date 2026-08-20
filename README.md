@@ -4,6 +4,10 @@ A pre-built distribution of the popular **Volantes Cursors** theme, ready for im
 
 ---
 
+![preview](https://raw.githubusercontent.com/satellaos-official/volantes-cursors-compiled/refs/heads/main/pictures/preview.png)
+
+---
+
 ## 📌 About This Repository
 
 This repository provides **ready-to-use / compiled binaries** of the Volantes cursor theme. 
@@ -20,8 +24,6 @@ The original project requires building from source graphics. This repo is mainta
 * **Pling / GNOME-Look Page:** [Volantes Cursors on GNOME-Look](https://www.gnome-look.org/p/1356095)
 
 ---
-
-## 🚀 Installation
 
 ### Manual Installation
 
