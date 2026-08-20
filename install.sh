@@ -26,8 +26,8 @@ elif [ "$1" = "-s" ]; then
         exit 1
     fi
     echo "[INFO] Installing cursors system-wide..."
-    cp -r "$DIR/volantes_cursors" "$DIR/volantes_light_cursors" /usr/share/themes/
-    echo "[SUCCESS] Cursors successfully installed to /usr/share/themes/"
+    cp -r "$DIR/volantes_cursors" "$DIR/volantes_light_cursors" /usr/share/icons/
+    echo "[SUCCESS] Cursors successfully installed to /usr/share/icons/"
 
 elif [ "$1" = "-a" ]; then
     if [ "$EUID" -ne 0 ]; then
